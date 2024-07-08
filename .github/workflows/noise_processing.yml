@@ -8,7 +8,7 @@ on:
      - main
      - caching
     paths:
-     - ambient_sound_analysis/**
+     - 'ambient_sound_analysis/**'
   # schedule:
   #  - cron: '9 * * * *'
     
