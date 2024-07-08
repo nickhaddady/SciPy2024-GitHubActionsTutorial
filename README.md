@@ -2,7 +2,7 @@
 
 Tutorial presented at [SciPy 2024 Conference](https://www.scipy2024.scipy.org/)
 
-Authors: Valentina Staneva, Quinn Brencher, Scott Henderson
+Authors: Valentina Staneva, Quinn Brencher, Scott Henderson, Nick Haddad
 
 ## Abstract
 
